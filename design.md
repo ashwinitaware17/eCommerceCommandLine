@@ -1,4 +1,4 @@
-Steps from 1 to .., provides steps for creation of project of git hub you can skip this if required.
+From 1 to 16, provides steps for creation of project from git hub and maven. You can skip this and directly jump to 17
 1. Create an account on https://github.com/
 2. Create new repository eCommerceCommandLine
 3. Download gitbash set up and install https://git-scm.com/downloads (Git bash provides command prompt to execute git command)
@@ -29,6 +29,7 @@ OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
 13. Execute command - 
 mvn archetype:generate -DgroupId=com.ashwini.projects -DartifactId=eCommerceCommandLine -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 (This will create new directory with name eCommerceCommandLine and containing src files)
+https://toolsqa.com/maven/create-new-maven-project/
 14. Copy src files and pom.xml to outside
 15. Delete newly created directory - eCommerceCommandLine
 16. Now your directory structure should be like this - 
@@ -40,4 +41,6 @@ total 3
 -rw-r--r-- 1 vikas 197121 691 Aug 20 10:57 pom.xml
 drwxr-xr-x 1 vikas 197121   0 Aug 20 10:57 src/
 
-17. 
+17. If you have not followed steps from 1 to 16, download project zip from https://github.com/ashwinitaware17/eCommerceCommandLine
+Unzip it and open it in eclipse.
+18. 
