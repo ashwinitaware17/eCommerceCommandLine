@@ -1,4 +1,4 @@
-package com.ashwini.projects;
+package com.ashwini.projects.ecommercecommandline;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

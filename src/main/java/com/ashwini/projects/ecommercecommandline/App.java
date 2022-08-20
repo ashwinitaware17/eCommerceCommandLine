@@ -1,4 +1,4 @@
-package com.ashwini.projects;
+package com.ashwini.projects.ecommercecommandline;
 
 /**
  * Hello world!
